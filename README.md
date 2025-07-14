@@ -9,7 +9,7 @@ A simple Java application that generates strong, secure random passwords based o
 - Generate passwords of custom length
 - Supports uppercase, lowercase, digits, and special characters
 - Easy to use and extend
-- CLI or GUI support (based on your implementation)
+- GUI support 
 
 ---
 
